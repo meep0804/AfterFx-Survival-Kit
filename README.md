@@ -1,1 +1,1 @@
-Mình để các bộ Tool thường dùng lên đây để tiện cho việc cài đặt, mọi người có thể tham khảo
+Để xem và tải Tool, mọi người nhìn qua mục Release phía bên phải màn hình để tham khảo nha, cảm ơn mọi người đã ghé xem
